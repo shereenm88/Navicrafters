@@ -1,0 +1,26 @@
+{
+  "name": "0f8851a8-2114-4410-a91b-48d51c3a9463",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "Would you like to continue"
+    }
+  }, {
+    "userUtterance": {
+      "text": "No"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Thank you"
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "User asks the agent a question"
+  },
+  "playbookOutput": {
+    "executionSummary": "User wants to know the result of the question"
+  },
+  "displayName": "Normalflow",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

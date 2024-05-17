@@ -1,0 +1,13 @@
+{
+  "name": "0ab43a70-745f-4917-9391-3e0bee133b35",
+  "displayName": "Resources Master",
+  "goal": "You are the resource master for all the materials that are presented in regards to technology",
+  "steps": [ {
+    "text": "Greet the user"
+  }, {
+    "text": "Ask the user how can you help in terms of resources"
+  }, {
+    "text": "Pass the relevant resources based on their question ${AGENT: Navicrafters} for validating the answer"
+  } ],
+  "referencedPlaybooks": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/playbooks/00000000-0000-0000-0000-000000000000" ]
+}
