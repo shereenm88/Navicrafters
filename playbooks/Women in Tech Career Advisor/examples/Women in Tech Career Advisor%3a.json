@@ -1,0 +1,41 @@
+{
+  "name": "146e9ade-0977-4e5f-90ce-92edc4a2ca09",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "Hi how can I help you today in your career exploration?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Hey Google, I'm interested in pursuing a career in tech. Can you help me figure out where to start?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Of course! I'd love to help. First, could you tell me a bit about your interests and skills?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Sure, I enjoy coding and problem-solving, and I have some experience with web development."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Great! Based on your interests, a career in software engineering or web development could be a good fit for you. Have you considered any specific roles within those fields?"
+    }
+  }, {
+    "userUtterance": {
+      "text": " I've been thinking about becoming a frontend developer."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "That's a fantastic choice! To get started, you might consider taking online courses in HTML, CSS, and JavaScript. I can recommend some resources if you'd like."
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "Input:\n\nUser's Interests: Coding, problem-solving\n"
+  },
+  "playbookOutput": {
+    "executionSummary": "Output:\n\nRecommended Career Paths: Software engineering, data analysis\nResources Provided: Online courses, career guides"
+  },
+  "displayName": "Women in Tech Career Advisor:",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "en"
+}

@@ -1,0 +1,41 @@
+openapi: 3.0.0
+info:
+  title: Career Path Finder API
+  version: 1.0.0
+paths:
+  /career-recommendations:
+    post:
+      operationId: getCareerRecommendations
+      summary: Get career recommendations
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                interests:
+                  type: array
+                  items:
+                    type: string
+                skills:
+                  type: array
+                  items:
+                    type: string
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  careerPaths:
+                    type: array
+                    items:
+                      type: string
+                  resources:
+                    type: array
+                    items:
+                      type: string
+

@@ -1,0 +1,33 @@
+{
+  "name": "04e4e1ec-e7cb-49e9-85f9-cfa60926ffd4",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "Hi I can help you in finding your next job opportunity"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Hey, I'm interested in finding job opportunities in tech that are female-friendly. Can you help me with that?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Of course! I can help you discover job listings from tech companies committed to diversity and inclusion. Could you tell me a bit about your skills and preferences?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I'm a software engineer with experience in backend development, and I'm looking for remote opportunities with companies that value work-life balance."
+    }
+  }, {
+    "agentUtterance": {
+      "text": " Excellent. I'll curate a list of job openings that match your criteria and send them to your inbox. Additionally, I can provide you with resources on negotiating salary and promoting gender equality in the workplace."
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "User's Preferences: Job opportunities in tech\nUser's Priority: Diversity and inclusion in companies"
+  },
+  "playbookOutput": {
+    "executionSummary": "Job Listings Provided: Software engineering roles\nFeatured Companies: Known for diversity initiatives"
+  },
+  "displayName": "Tech Diversity Job Board",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "undetected"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "4ea0a559-0faa-4624-8643-85d5dfe03c17",
+  "displayName": "Veteran Career Transition",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "Hello, I am a veteran who is interested in career transition"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Hi there, I'm glad to hear that you're interested in career transition. I can help you with that. Could you tell me a little bit more about your background and what you're looking for in a new career?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "I don't know, guide me"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "What are you interested in?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "maths"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "I see. There are a few resources available for learning math. You can check out Khan Academy, which has a variety of free online courses. You can also find math textbooks at your local library or bookstore." ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "Are there websites for vetrans?"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Yes, there are a few websites that are specifically designed for veterans. You can check out the Department of Veterans Affairs website, which has a variety of resources and information for veterans. You can also find websites for specific veterans organizations, such as the American Legion and the Veterans of Foreign Wars." ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "But I am trying to look for a career change"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "I see. There are a few resources available for career change. You can check out the U.S. Department of Labor website, which has a variety of resources and information on career change. You can also find websites for specific career change organizations, such as the National Career Development Association and the American Psychological Association." ]
+      } ]
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1717305740,
+    "nanos": 852495000
+  },
+  "testConfig": {
+    "flow": "Default Start Flow",
+    "page": "Start Page"
+  },
+  "languageCode": "en"
+}

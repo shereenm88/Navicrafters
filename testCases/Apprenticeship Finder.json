@@ -1,0 +1,59 @@
+{
+  "name": "4edc8307-a2c5-4505-bbf2-f81126e469c8",
+  "displayName": "Apprenticeship Finder",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "Can you help me in finding some apprenticeship opportunities?"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Sure, I can help you with that. What kind of apprenticeship are you looking for?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "engineering"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Great! I have a few apprenticeship opportunities in engineering that I can share with you. Would you like to hear about them?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "yes"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Here are a few apprenticeship opportunities in engineering that I found:\n\n* Apprenticeship at Google: This apprenticeship is designed to give you hands-on experience in software engineering. You'll work on real-world projects with Google engineers, and you'll get the opportunity to learn from some of the best in the field.\n* Apprenticeship at Microsoft: This apprenticeship is designed to give you hands-on experience in cloud computing. You'll work on real-world projects with Microsoft engineers, and you'll get the opportunity to learn from some of the best in the field.\n* Apprenticeship at Amazon Web Services: This apprenticeship is designed to give you hands-on experience in cloud computing. You'll work on real-world projects with AWS engineers, and you'll get the opportunity to learn from some of the best in the field.\nWould you like to learn more about any of these apprenticeships?" ]
+      } ]
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1717305819,
+    "nanos": 382590000
+  },
+  "testConfig": {
+    "flow": "Default Start Flow",
+    "page": "Start Page"
+  },
+  "languageCode": "en"
+}

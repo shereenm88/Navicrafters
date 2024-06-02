@@ -1,0 +1,7 @@
+{
+  "name": "416b67d6-b5b8-46bc-852c-619227f5efe5",
+  "displayName": "DiversityJobBoard",
+  "priority": 500000,
+  "description": "List tech job opportunities from companies committed to diversity and inclusion.",
+  "numTrainingPhrases": 4
+}

@@ -1,0 +1,117 @@
+{
+  "name": "21d9e71e-6a03-4f3a-be28-4afd35b43c14",
+  "displayName": "Career Exploration",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "can you help me with career explorations"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Sure, I can help you with that. What are you interested in?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "maths"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "I see. There are a few different career paths you could explore in the field of mathematics. One option is to become a mathematician, which involves studying and researching mathematical concepts. Another option is to become a statistician, which involves collecting and analyzing data to make predictions. You could also become a financial analyst, which involves using mathematical models to make investment decisions.\nWhich of these options sounds most interesting to you?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "hmm maybe financial analyst"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Great! There are a few different resources that can help you learn more about financial analysis. One option is to take a course on financial analysis. Another option is to read books about financial analysis. You could also find a mentor who is a financial analyst and learn from them.\nWhich of these options sounds most interesting to you?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "where can I get the courses"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "There are a few different places where you can find courses on financial analysis. One option is to search for courses online. Another option is to check with your local community college or university. You could also find courses through online learning platforms like Coursera or edX.\nWhich of these options sounds most interesting to you?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "can you suggest some local communities"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "There are a few different local communities that you could join to learn more about financial analysis. One option is to join the Financial Analysts Society. Another option is to join the CFA Institute. You could also join a local chapter of the American Association of Financial Analysts.\nWhich of these options sounds most interesting to you?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "super"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Great! I'm glad I could help. Is there anything else I can help you with today?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "No thanks"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+    
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1717304741,
+    "nanos": 82082000
+  },
+  "testConfig": {
+    "flow": "Default Start Flow",
+    "page": "Start Page"
+  },
+  "languageCode": "en"
+}

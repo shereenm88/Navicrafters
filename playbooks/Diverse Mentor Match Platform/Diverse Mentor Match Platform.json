@@ -1,0 +1,25 @@
+{
+  "name": "12534607-81dd-4883-a339-b4fdec564548",
+  "displayName": "Diverse Mentor Match Platform",
+  "goal": "This platform connects women in tech with experienced mentors who can offer guidance, support, and career advice.",
+  "steps": [ {
+    "text": "Mentors and mentees create profiles outlining their backgrounds, expertise, and mentoring preferences."
+  }, {
+    "text": "The platform uses AI algorithms to match mentees with mentors based on compatibility factors such as industry experience, career stage, and skillset."
+  }, {
+    "text": "Mentees can schedule virtual mentoring sessions, participate in group discussions, and access resources for personal and professional development."
+  }, {
+    "text": "Mentors provide guidance on navigating challenges, advancing in the tech industry, and fostering diversity and inclusion."
+  } ],
+  "instruction": {
+    "steps": [ {
+      "text": "Mentors and mentees create profiles outlining their backgrounds, expertise, and mentoring preferences."
+    }, {
+      "text": "The platform uses AI algorithms to match mentees with mentors based on compatibility factors such as industry experience, career stage, and skillset."
+    }, {
+      "text": "Mentees can schedule virtual mentoring sessions, participate in group discussions, and access resources for personal and professional development."
+    }, {
+      "text": "Mentors provide guidance on navigating challenges, advancing in the tech industry, and fostering diversity and inclusion."
+    } ]
+  }
+}

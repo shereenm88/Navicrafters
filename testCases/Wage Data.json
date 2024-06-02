@@ -1,0 +1,89 @@
+{
+  "name": "10d0b29a-d11c-43da-a61f-9c6e3375eeb5",
+  "displayName": "Wage Data",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": " \"I'm interested in healthcare careers.\""
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "I see, you're interested in healthcare careers. I can help you with that. What kind of healthcare careers are you interested in?" ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "what are the options?"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "There are many different healthcare careers to choose from. Some of the most popular include nursing, physician assistant, and medical technologist. I can provide you with more information about each of these careers if you'd like." ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "can you provide me more options?"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "Sure, here are some other healthcare careers you may want to consider:\n\n* Registered nurse\n* Licensed practical nurse\n* Medical assistant\n* Respiratory therapist\n* Occupational therapist\n* Physical therapist\n* Speech-language pathologist\n* Pharmacist\n* Optometrist\n* Dentist\n* Physician\n* Surgeon\nI can provide you with more information about any of these careers if you'd like." ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "what are the wages for each?"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "The wages for healthcare careers vary depending on the specific job, location, and experience level. However, here is a general overview of the wages for some of the most popular healthcare careers:\n\n* Registered nurse: $71,730 per year\n* Licensed practical nurse: $51,510 per year\n* Medical assistant: $36,670 per year\n* Respiratory therapist: $60,930 per year\n* Occupational therapist: $84,950 per year\n* Physical therapist: $87,930 per year\n* Speech-language pathologist: $80,380 per year\n* Pharmacist: $128,710 per year\n* Optometrist: $115,880 per year\n* Dentist: $161,730 per year\n* Physician: $208,000 per year\n* Surgeon: $251,950 per year\nI hope this information is helpful. Let me know if you have any other questions." ]
+      } ]
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "what is the data source for that?"
+        },
+        "languageCode": "en"
+      },
+      "enableSentimentAnalysis": true
+    },
+    "virtualAgentOutput": {
+      "textResponses": [ {
+        "text": [ "The data is from the Bureau of Labor Statistics." ]
+      } ]
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1717304987,
+    "nanos": 356368000
+  },
+  "testConfig": {
+    "flow": "Default Start Flow",
+    "page": "Start Page"
+  },
+  "languageCode": "en"
+}

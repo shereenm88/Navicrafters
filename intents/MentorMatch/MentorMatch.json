@@ -1,0 +1,7 @@
+{
+  "name": "a458d341-751b-4f52-9996-87a98139c267",
+  "displayName": "MentorMatch",
+  "priority": 500000,
+  "description": "Connect women in tech with mentors based on compatibility factors such as industry experience and career goals.",
+  "numTrainingPhrases": 4
+}

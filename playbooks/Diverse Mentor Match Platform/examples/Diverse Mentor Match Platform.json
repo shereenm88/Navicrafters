@@ -1,0 +1,33 @@
+{
+  "name": "2fa047f4-cce6-44d9-8ac9-2e77307deb6a",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "Hi I am your STEM Mentor Matcher, how can I help?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Hi there, I'm looking for a mentor who can help me navigate the world of data science. Can you assist me in finding someone?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Absolutely! Could you tell me a bit more about your background and what you're hoping to achieve with a mentor?"
+    }
+  }, {
+    "userUtterance": {
+      "text": " I recently graduated with a degree in computer science, and I'm eager to break into the field of data science. I'm looking for someone who can offer guidance on building my portfolio and landing my first job"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Got it. Let me search our database for mentors who specialize in data science and have experience working with recent graduates like yourself. I'll provide you with a list of potential matches shortly."
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "User's Background: Software engineering\nUser's Goals: Leadership development"
+  },
+  "playbookOutput": {
+    "executionSummary": "Recommended Mentors: Experienced leaders in tech\nMentorship Focus Areas: Leadership skills, career advancement"
+  },
+  "displayName": "Diverse Mentor Match Platform",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "en"
+}

@@ -1,0 +1,33 @@
+openapi: 3.0.0
+info:
+  title: Diversity Job Board API
+  version: 1.0.0
+paths:
+  /search-jobs:
+    get:
+      operationId: searchJobs
+      summary: Search for jobs
+      parameters:
+        - in: query
+          name: criteria
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    title:
+                      type: string
+                    company:
+                      type: string
+                    location:
+                      type: string
+                    description:
+                      type: string

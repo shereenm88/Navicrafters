@@ -1,0 +1,9 @@
+{
+  "name": "5c011d22-9194-47f0-8ddd-d0c1edeea9a4",
+  "displayName": "CareerPathFinder",
+  "description": "A tool that helps women explore career options in tech based on their interests, skills, and preferences.",
+  "openApiSpec": {
+  
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

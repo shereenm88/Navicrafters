@@ -1,0 +1,62 @@
+openapi: 3.0.0
+info:
+  title: Mentor Match API
+  version: 1.0.0
+paths:
+  /create-profile:
+    post:
+      operationId: createProfile
+      summary: Create a mentor or mentee profile
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                role:
+                  type: string
+                goals:
+                  type: string
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  profileId:
+                    type: string
+  /match-mentor:
+    post:
+      operationId: matchMentor
+      summary: Match mentee with a mentor
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                menteeProfileId:
+                  type: string
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  mentorProfile:
+                    type: object
+                    properties:
+                      name:
+                        type: string
+                      role:
+                        type: string
+                      expertise:
+                        type: string

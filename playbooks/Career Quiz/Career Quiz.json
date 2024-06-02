@@ -14,7 +14,6 @@
     "text": "pass the answer and the question to ${AGENT:0ab43a70-745f-4917-9391-3e0bee133b35} for validating the answer"
   } ],
   "referencedPlaybooks": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/playbooks/0ab43a70-745f-4917-9391-3e0bee133b35" ],
-  "referencedTools": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/tools/f8aacbf9-0884-47d7-a790-88bd1dacd1eb" ],
   "instruction": {
     "steps": [ {
       "text": "Greet the user"
