@@ -9,5 +9,14 @@
   }, {
     "text": "Pass the relevant resources based on their question ${AGENT: Navicrafters} for validating the answer"
   } ],
-  "referencedPlaybooks": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/playbooks/00000000-0000-0000-0000-000000000000" ]
+  "referencedPlaybooks": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/playbooks/00000000-0000-0000-0000-000000000000" ],
+  "instruction": {
+    "steps": [ {
+      "text": "Greet the user"
+    }, {
+      "text": "Ask the user how can you help in terms of resources"
+    }, {
+      "text": "Pass the relevant resources based on their question ${AGENT: Navicrafters} for validating the answer"
+    } ]
+  }
 }

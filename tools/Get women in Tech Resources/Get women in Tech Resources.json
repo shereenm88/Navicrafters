@@ -1,11 +1,17 @@
 {
   "name": "467071aa-1b40-4de4-89c7-7032c7bd7f68",
   "displayName": "Get women in Tech Resources",
+  "description": "Knowledge base about design thinking",
   "actions": [ "Get women in Tech Resources" ],
   "dataStoreSpec": {
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/774914863619/locations/us/collections/default_collection/dataStores/design-thinking_1717129122105",
+      "documentProcessingMode": "DOCUMENTS"
+    } ],
     "models": {
       "summarizationModel": {
-      
+        "model": "gemini_pro"
       }
     },
     "fallbackPrompt": {

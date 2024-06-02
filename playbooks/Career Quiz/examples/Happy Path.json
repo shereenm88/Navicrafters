@@ -1,0 +1,37 @@
+{
+  "name": "dc9d4431-edd1-4faa-aa01-db25f3ef2053",
+  "actions": [ {
+    "playbookInvocation": {
+      "playbook": "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/playbooks/0ab43a70-745f-4917-9391-3e0bee133b35",
+      "playbookInput": {
+        "precedingConversationSummary": "user answer to the question"
+      },
+      "playbookOutput": {
+        "executionSummary": "user gets the result of the answer"
+      },
+      "playbookState": "OUTPUT_STATE_OK"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Would you like to continue "
+    }
+  }, {
+    "userUtterance": {
+      "text": "No"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Thank you"
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "Agent greet the user "
+  },
+  "playbookOutput": {
+    "executionSummary": "user provides answer to the question"
+  },
+  "displayName": "Happy Path",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

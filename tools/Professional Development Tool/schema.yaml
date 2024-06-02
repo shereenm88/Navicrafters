@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: Professional Development Tool API
+  version: 1.0.0
+  description: |
+    API for Professional Development Tool, providing resources for users' career advancement.
+  contact:
+    name: Your Name
+    email: your@email.com
+paths:
+  /professional-development:
+    get:
+      summary: Access Professional Development Resources
+      description: |
+        Endpoint to access resources for professional development.
+      operationId: accessProfessionalDevelopmentResources
+      responses:
+        '200':
+          description: Successful response with professional development resources.

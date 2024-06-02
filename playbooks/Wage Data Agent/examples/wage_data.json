@@ -1,0 +1,12 @@
+{
+  "name": "1946f2bd-8299-4886-88bb-5a86049edad4",
+  "playbookInput": {
+    "precedingConversationSummary": "User: \"What is the average salary for software developers?\""
+  },
+  "playbookOutput": {
+    "executionSummary": "Agent: \"Ah, the world of software development! Let's find out more about the salary trends. You can explore detailed wage information for software developers on the Bureau of Labor Statistics Occupational Outlook Handbook here. Just scroll down to the 'Earnings' section for all the juicy details. Understanding the salary landscape can help you make informed decisions about your career path. Ready to uncover the numbers?\""
+  },
+  "displayName": "wage_data",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "undetected"
+}

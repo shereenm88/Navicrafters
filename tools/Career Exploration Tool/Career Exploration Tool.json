@@ -1,0 +1,9 @@
+{
+  "name": "f8aacbf9-0884-47d7-a790-88bd1dacd1eb",
+  "displayName": "Career Exploration Tool",
+  "description": "This tool allows users to explore various career options based on their interests and preferences. It provides guidance and resources to help users discover potential career paths and access detailed information about each option.",
+  "openApiSpec": {
+  
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

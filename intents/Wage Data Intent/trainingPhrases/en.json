@@ -1,0 +1,15 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"How much do nurses make?\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What is the average salary for software developers?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

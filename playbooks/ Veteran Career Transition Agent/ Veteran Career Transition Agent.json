@@ -1,0 +1,17 @@
+{
+  "name": "f01255e8-d269-4772-9047-533b90c2253e",
+  "displayName": " Veteran Career Transition Agent",
+  "goal": "Assist veterans in transitioning to civilian careers",
+  "steps": [ {
+    "text": "Direct users to MyNextMove for veterans for career resources."
+  }, {
+    "text": "Provide information on government resources like CareerOneStop."
+  } ],
+  "instruction": {
+    "steps": [ {
+      "text": "Direct users to MyNextMove for veterans for career resources."
+    }, {
+      "text": "Provide information on government resources like CareerOneStop."
+    } ]
+  }
+}

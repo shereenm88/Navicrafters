@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: Apprenticeship Finder Tool API
+  version: 1.0.0
+  description: |
+    API for Apprenticeship Finder Tool, providing access to apprenticeship opportunities.
+  contact:
+    name: Your Name
+    email: your@email.com
+paths:
+  /find-apprenticeships:
+    get:
+      summary: Find Apprenticeships
+      description: |
+        Endpoint to find apprenticeship opportunities.
+      operationId: findApprenticeships
+      responses:
+        '200':
+          description: Successful response with apprenticeship listings.

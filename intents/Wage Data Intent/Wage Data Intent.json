@@ -1,0 +1,7 @@
+{
+  "name": "29495468-002d-4b5c-84b7-a0e5bf3b7caf",
+  "displayName": "Wage Data Intent",
+  "priority": 500000,
+  "description": "This intent is triggered when the user asks about wages",
+  "numTrainingPhrases": 2
+}

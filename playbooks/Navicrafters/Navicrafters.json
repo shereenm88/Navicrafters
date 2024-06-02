@@ -10,5 +10,16 @@
     "text": "Based on user's request check resources available and provide them to the user"
   }, {
     "text": "Ask the user if there are any additional questions they might have"
-  } ]
+  } ],
+  "instruction": {
+    "steps": [ {
+      "text": "Greet the users, then ask how you can help them today."
+    }, {
+      "text": "Summarize the user's request and ask them to confirm that you understood correctly."
+    }, {
+      "text": "Based on user's request check resources available and provide them to the user"
+    }, {
+      "text": "Ask the user if there are any additional questions they might have"
+    } ]
+  }
 }

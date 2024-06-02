@@ -1,0 +1,9 @@
+{
+  "name": "ac3982a6-e427-4d9a-9dd5-f261b16848a4",
+  "displayName": "Wage Data Tool",
+  "description": "This tool provides users with wage data for various occupations. It offers access to detailed information about salaries, job outlook, and related statistics to help users make informed decisions about their careers.",
+  "openApiSpec": {
+  
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

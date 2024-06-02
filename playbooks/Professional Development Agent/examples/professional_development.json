@@ -1,0 +1,12 @@
+{
+  "name": "1c7abf2c-0c59-4735-b8f0-52aad51fdde2",
+  "playbookInput": {
+    "precedingConversationSummary": "User: \"I want to improve my skills in digital marketing.\""
+  },
+  "playbookOutput": {
+    "executionSummary": "Agent: \"Digital marketing is a dynamic field with endless opportunities for growth. Let's explore some avenues for your professional development. Check out the Digital Marketing Specialization on Coursera here or The Complete Digital Marketing Course on Udemy here. These courses offer comprehensive learning experiences to enhance your skills. Additionally, consider joining the American Marketing Association for networking opportunities and industry insights. Ready to elevate your digital marketing game?\""
+  },
+  "displayName": "professional_development",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "undetected"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "b3389eda-b27f-4791-abbd-08becec035ab",
+  "displayName": "Career Exploration ",
+  "priority": 500000,
+  "description": "This intent is triggered when the user says \"Tell me about careers in technology.\"",
+  "numTrainingPhrases": 2
+}

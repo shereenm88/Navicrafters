@@ -1,0 +1,12 @@
+{
+  "name": "ccc67c6d-9203-4727-90b5-2ad31c9e5ffa",
+  "playbookInput": {
+    "precedingConversationSummary": "User: \"I'm a veteran looking for civilian job opportunities.\""
+  },
+  "playbookOutput": {
+    "executionSummary": "Agent: \"Thank you for your service! Transitioning to civilian life can be a significant step, but you're not alone. Let's explore some resources together. Check out MyNextMove for Veterans here to access career resources tailored specifically for veterans. Additionally, CareerOneStop offers a wealth of support and job search assistance for transitioning veterans here. Remember, your skills and experience are valuable assets in the civilian workforce. Ready to take the next step in your career journey?\""
+  },
+  "displayName": "veteran_career_transition",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "undetected"
+}

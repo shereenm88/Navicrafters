@@ -1,0 +1,12 @@
+{
+  "name": "9b7c36b5-a29e-4409-927c-78a6c1781dc4",
+  "playbookInput": {
+    "precedingConversationSummary": "User: \"I want to find apprenticeships in technology.\""
+  },
+  "playbookOutput": {
+    "executionSummary": "Agent: \"Ah, technology apprenticeships! It's an exciting field to explore. Let's find the perfect fit for you. Head over to the Apprenticeship USA Job Finder here. You can filter by your location and job preferences to narrow down your options. Remember, it's all about finding the right opportunity that aligns with your interests and goals. Ready to dive in?\""
+  },
+  "displayName": "apprenticeship_finder",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "undetected"
+}

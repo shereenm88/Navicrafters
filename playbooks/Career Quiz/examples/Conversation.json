@@ -1,0 +1,76 @@
+{
+  "name": "a78a7dd2-ed7f-4dec-89cc-3489d7e6f671",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "Great! First, tell me, what are some of your hobbies or activities you enjoy doing in your free time?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I enjoy painting, hiking, and solving puzzles."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Awesome! Now, what subjects did you enjoy the most in school?"
+    }
+  }, {
+    "userUtterance": {
+      "text": " I loved art, science, and math."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Interesting combination! What kind of work environment do you prefer? For example, do you like working indoors, outdoors, in an office, or remotely?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I prefer working indoors and in a creative space, like a studio or an office"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Good to know. Next, how important is work-life balance to you on a scale from 1 to 5, with 5 being very important?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I would say it's a 4."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Understood. What motivates you more in a job: working on creative projects, solving problems, helping others, or making a lot of money?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Working on creative projects."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Great choice! Lastly, do you have any specific career goals or dreams that you've always wanted to pursue?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "I've always wanted to become a graphic designer or an architect."
+    }
+  }, {
+    "playbookInvocation": {
+      "playbook": "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/playbooks/0ab43a70-745f-4917-9391-3e0bee133b35",
+      "playbookInput": {
+        "precedingConversationSummary": "I've always wanted to become a graphic designer or an architect."
+      },
+      "playbookOutput": {
+        "executionSummary": "Based on your interests and preferences, here are some career options that might be a great fit for you:\n\nGraphic Designer: This career aligns with your love for painting, creative projects, and working in a creative indoor environment. Graphic designers use their artistic skills to create visual content for various media.\nArchitect: This career combines your interests in art, science, and math. Architects design buildings and structures, working both creatively and technically."
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Here are some steps you can take to pursue these careers:\nGraphic Designer:\nConsider obtaining a degree in graphic design or a related field.\nBuild a portfolio of your work to showcase your skills to potential employers.\nGain experience through internships or freelance projects.\nArchitect:\nPursue a degree in architecture from an accredited university.\nComplete internships to gain practical experience.\nObtain licensure by passing the Architect Registration Examination (ARE).\n\nAdditionally, here are some resources to help you get started:\n\nFor graphic design, check out online courses on platforms like Coursera or Skillshare.\nFor architecture, look into the National Council of Architectural Registration Boards (NCARB) for licensure information and study resources.\n\nRemember, these are just starting points. Your career path is unique, and exploring different opportunities will help you find what truly makes you happy and fulfilled. Good luck!"
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "Welcome to the Career Quiz! Let's find the best career for you based on your interests. Ready to get started?"
+  },
+  "playbookOutput": {
+    "executionSummary": "the user says Yes, I'm ready."
+  },
+  "displayName": "Conversation",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

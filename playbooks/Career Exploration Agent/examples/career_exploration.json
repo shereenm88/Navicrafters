@@ -1,0 +1,12 @@
+{
+  "name": "8af7cd62-0c01-4018-8fcd-cc28a2f88dfe",
+  "playbookInput": {
+    "precedingConversationSummary": "User: \"I'm interested in healthcare careers.\""
+  },
+  "playbookOutput": {
+    "executionSummary": "Agent: \"That's fantastic! Healthcare is a diverse field with plenty of opportunities. Let's explore some options together. Based on your interest, roles like nursing, medical assisting, or healthcare administration could be a great fit for you. Check out the ONET Career Handbook for detailed descriptions here. Also, taking a career quiz on MyNextMove can provide further insights into careers that match your skills and interests. Ready to embark on this exploration journey?\""
+  },
+  "displayName": "career_exploration",
+  "retrievalStrategy": "DEFAULT",
+  "languageCode": "undetected"
+}

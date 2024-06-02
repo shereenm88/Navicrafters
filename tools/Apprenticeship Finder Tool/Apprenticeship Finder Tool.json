@@ -1,0 +1,9 @@
+{
+  "name": "8caab573-2fef-4625-a5cd-169bb682fb17",
+  "displayName": "Apprenticeship Finder Tool",
+  "description": "This tool helps users find apprenticeship opportunities in various fields. It provides access to a database of apprenticeship programs and allows users to search based on their location and preferences.",
+  "openApiSpec": {
+  
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

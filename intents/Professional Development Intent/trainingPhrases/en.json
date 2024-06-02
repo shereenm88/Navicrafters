@@ -1,0 +1,15 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"What are some courses for professional development?\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I want to improve my skills in digital marketing.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

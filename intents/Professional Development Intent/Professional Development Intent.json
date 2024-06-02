@@ -1,0 +1,7 @@
+{
+  "name": "2be842ff-8066-49e1-a6bb-2486eb00dafb",
+  "displayName": "Professional Development Intent",
+  "priority": 500000,
+  "description": "This intent is triggered when the user asks about development",
+  "numTrainingPhrases": 2
+}

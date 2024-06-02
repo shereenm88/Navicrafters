@@ -1,11 +1,45 @@
 {
   "defaultLanguageCode": "en",
   "timeZone": "America/Los_Angeles",
+  "enableLogging": true,
   "projectNumber": 774914863619,
+  "speechToTextSettings": {
+  
+  },
   "advancedSettings": {
-    "loggingSettings": {
+    "audioExportGcsDestination": {
     
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+      "enableInteractionLogging": true
     }
   },
-  "startPlaybook": "Navicrafters"
+  "speakerIdSettings": {
+  
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/774914863619/locations/us/collections/default_collection/engines/70d54b4c-03ca-4d47-acf9-d68845224430"
+  },
+  "duplexSettings": {
+  
+  },
+  "answerFeedbackSettings": {
+    "enableAnswerFeedback": true
+  },
+  "startPlaybook": "Navicrafters",
+  "webClientSettings": {
+    "boxBorderRadius": "0"
+  }
 }

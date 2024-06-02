@@ -1,0 +1,9 @@
+{
+  "name": "a3ed96b1-0a3c-4377-b72c-d4349ab9b36b",
+  "displayName": "Professional Development Tool",
+  "description": "This tool facilitates users' professional development by providing access to online courses, networking opportunities, and industry insights. It offers resources to help users enhance their skills and advance their careers.",
+  "openApiSpec": {
+  
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

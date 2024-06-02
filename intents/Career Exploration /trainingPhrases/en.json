@@ -1,0 +1,15 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"Tell me about careers in technology.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm interested in healthcare careers.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

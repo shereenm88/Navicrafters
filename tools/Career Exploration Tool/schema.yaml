@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: Career Exploration Tool API
+  version: 1.0.0
+  description: |
+    API for Career Exploration Tool, providing career guidance and resources.
+  contact:
+    name: Your Name
+    email: your@email.com
+paths:
+  /explore-careers:
+    get:
+      summary: Explore Careers
+      description: |
+        Endpoint to explore various career options.
+      operationId: exploreCareers
+      responses:
+        '200':
+          description: Successful response with career options.

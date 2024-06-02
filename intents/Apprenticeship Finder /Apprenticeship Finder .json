@@ -1,0 +1,7 @@
+{
+  "name": "baef8211-28a0-47c1-8447-0790ff5a24d6",
+  "displayName": "Apprenticeship Finder ",
+  "priority": 500000,
+  "description": "This intent is triggered when they user asks about apprenticeship opportunities ",
+  "numTrainingPhrases": 4
+}

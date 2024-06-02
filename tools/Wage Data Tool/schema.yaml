@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: Wage Data Tool API
+  version: 1.0.0
+  description: |
+    API for Wage Data Tool, providing access to wage information for different occupations.
+  contact:
+    name: Your Name
+    email: your@email.com
+paths:
+  /wage-data:
+    get:
+      summary: Get Wage Data
+      description: |
+        Endpoint to retrieve wage data for various occupations.
+      operationId: getWageData
+      responses:
+        '200':
+          description: Successful response with wage data.
