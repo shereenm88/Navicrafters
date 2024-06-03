@@ -9,6 +9,7 @@
   }, {
     "text": "Suggest taking career quizzes on mynextmove.org."
   } ],
+  "referencedTools": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/tools/5c011d22-9194-47f0-8ddd-d0c1edeea9a4" ],
   "instruction": {
     "steps": [ {
       "text": "Provide a brief overview of the user's interests and skills."

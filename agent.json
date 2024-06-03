@@ -6,6 +6,7 @@
   "speechToTextSettings": {
   
   },
+  "enableStackdriverLogging": true,
   "advancedSettings": {
     "audioExportGcsDestination": {
     
@@ -20,6 +21,7 @@
     
     },
     "loggingSettings": {
+      "enableStackdriverLogging": true,
       "enableInteractionLogging": true
     }
   },

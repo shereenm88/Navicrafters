@@ -11,6 +11,7 @@
   }, {
     "text": "Mentors provide guidance on navigating challenges, advancing in the tech industry, and fostering diversity and inclusion."
   } ],
+  "referencedTools": [ "projects/pure-lantern-423104-m7/locations/us-central1/agents/70d54b4c-03ca-4d47-acf9-d68845224430/tools/2921fd58-ec5e-4155-a585-83374a0affbe" ],
   "instruction": {
     "steps": [ {
       "text": "Mentors and mentees create profiles outlining their backgrounds, expertise, and mentoring preferences."
